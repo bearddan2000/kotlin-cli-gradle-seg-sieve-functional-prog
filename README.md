@@ -1,4 +1,4 @@
-# kotlin-cli-seg-sieve-functional-prog
+# kotlin-cli-gradle-seg-sieve-functional-prog
 
 ## Description
 Find all primes less in a range. Follows functional programming practices.
